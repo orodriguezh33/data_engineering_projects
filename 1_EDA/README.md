@@ -1,14 +1,10 @@
 # 🔍 Exploratory Data Analysis w/ SQL: Job Market Analytics
 
+![Project 1 Overview](../Images/1_1_Project1_EDA.png)
 
-
-![Project 1 Overview](../images/1_1_Project1_EDA.png)
-
-A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to  **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights** .
+A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
 
 ---
-
-
 
 ## 🧾 Executive Summary (For Hiring Managers)
 
@@ -49,15 +45,15 @@ By querying across these interconnected tables, I extracted insights about skill
 
 ## 🧰 Tech Stack
 
-* 🐤 **Query Engine:** DuckDB for fast OLAP-style analytical queries
-* 🧮 **Language:** SQL (ANSI-style with analytical functions)
-* 📊 **Data Model:** Star schema with fact + dimension + bridge tables
-* 🛠️ **Development:** VS Code for SQL editing + Terminal for DuckDB CLI
-* 📦 **Version Control:** Git/GitHub for versioned SQL scripts
-
-## 📂 Repository Structure
+- 🐤 **Query Engine:** DuckDB for fast OLAP-style analytical queries
+- 🧮 **Language:** SQL (ANSI-style with analytical functions)
+- 📊 **Data Model:** Star schema with fact + dimension + bridge tables
+- 🛠️ **Development:** VS Code for SQL editing + Terminal for DuckDB CLI
+- 📦 **Version Control:** Git/GitHub for versioned SQL scripts
 
 ---
+
+## 📂 Repository Structure
 
 ```text
 1_EDA/
@@ -67,6 +63,7 @@ By querying across these interconnected tables, I extracted insights about skill
 └── README.md                     # You are here
 ```
 
+---
 
 ## 🏗 Analysis Overview
 
@@ -79,10 +76,11 @@ By querying across these interconnected tables, I extracted insights about skill
 ### Key Insights
 
 - 🧠 Core languages: SQL and Python each appear in ~29,000 job postings, making them the most demanded skills
-- ☁️ Cloud platforms: AWS and Azure are critical for modern data engineering roles-
+- ☁️ Cloud platforms: AWS and Azure are critical for modern data engineering roles
 - 🧱 Infra & tooling: Kubernetes, Docker, and Terraform are associated with premium salaries
-- 🔥 Big data tools: Apache Spark shows strong demand with competitive compensation`</pre>`
+- 🔥 Big data tools: Apache Spark shows strong demand with competitive compensation
 
+---
 
 ## 💻 SQL Skills Demonstrated
 
