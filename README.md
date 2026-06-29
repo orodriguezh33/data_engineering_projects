@@ -19,9 +19,3 @@ SQL-driven analysis of data engineer job market trends using advanced querying t
 End-to-end ETL pipeline transforming raw CSV files into a star schema data warehouse and analytical data marts.
 
 **Skills**: Dimensional modeling, ETL pipeline development, data mart architecture, production practices
-
-### [3_Flat_to_WH_Build/](./3_Flat_to_WH_Build/) - Flat to Warehouse Build
-
-SQL-driven transformation of flat job posting data into a normalized star schema using DuckDB.
-
-**Skills**: Data transformation, star schema design, ETL pipeline development, production practices
