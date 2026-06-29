@@ -44,3 +44,6 @@ __pycache__/
 docs/
 
 job_mart.duckdbCREATE
+
+*.duckdb
+*.duckdb.wal
