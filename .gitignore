@@ -47,4 +47,4 @@ job_mart.duckdbCREATE
 
 *.duckdb
 *.duckdb.wal
-.CLAUDE.md
+CLAUDE.md
